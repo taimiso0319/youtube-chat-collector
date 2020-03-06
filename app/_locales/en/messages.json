@@ -1,0 +1,18 @@
+{
+  "appName": {
+    "message": "YouTubeChatCollector",
+    "description": "The name of the application"
+  },
+  "appShortName": {
+    "message": "ytcc",
+    "description": "The short_name (maximum of 12 characters recommended) is a short version of the app's name."
+  },
+  "appDescription": {
+    "message": "Collect YouTube live chat via browser. Because they do a bunch of restriction for YouTube Data Api V3, I understand that they want let us do web scraping to make our skill better.",
+    "description": "The description of the application"
+  },
+  "browserActionTitle": {
+    "message": "YouTubeChatCollector",
+    "description": "The title of the browser action button"
+  }
+}
